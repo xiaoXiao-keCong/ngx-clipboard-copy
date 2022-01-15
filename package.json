@@ -85,7 +85,7 @@
     "codelyzer": "4.0.1",
     "rollup": "0.41.6",
     "tslint": "5.8.0",
-    "shelljs": "0.7.8",
+    "shelljs": "0.8.5",
     "chalk": "2.3.0",
     "webpack": "3.8.1",
     "uglify-js": "3.1.10"
